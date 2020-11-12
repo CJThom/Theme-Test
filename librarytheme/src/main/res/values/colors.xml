@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="test_color_1">#FFFFFFFF</color>
+    <color name="test_color_2">#B12222</color>
+    <color name="test_color_3">#426AFF</color>
+</resources>

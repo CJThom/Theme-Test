@@ -1,2 +1,3 @@
+include ':librarytheme'
 include ':app'
 rootProject.name = "ThemeTest"
